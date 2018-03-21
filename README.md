@@ -1,5 +1,12 @@
-r# Home-assistant
+Home-assistant
 Personal home assistant
+
+I started to work with Home assistant for fun, but as my home assistant was evolving and the difficulty was increasing
+it becomes an addicting hobby.
+I have averagely spent one hours per day work  with my home assistant.
+So lets go to 
+
+
 
 Started: may/2017
 
@@ -9,7 +16,7 @@ Status: in progress
 
 Main feactures:
 
-r# Automation
+Automation
 - lights.
 - tvs
 - setbox
@@ -23,7 +30,7 @@ r# Automation
 
 
 
-r# Monitoring
+Monitoring
 - Weather
 - temperature
 - luminisity
