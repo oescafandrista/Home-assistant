@@ -1,14 +1,13 @@
 
-Personal home assistant
+Personal home automation
 
-I started to work with Home assistant for fun, but as my home assistant was evolving and the difficulty was increasing
-it becomes an addicting hobby.
-I have averagely spent one hours per day work  with my home assistant.
-It is very simple, built with cheap components, Chinese in the most case. Below there are the list of them, where I bought, How much  and who functions that everyone is destined.
+I started to work with Home Assistant for fun, but as my home system has evolved and the difficulty has increased
+it has become an addicting hobby.
+I have spent one hour per day on average working with my automation system.
+It is very simple, built mostly with cheap Chinese components. Below is the list of them, where I bought them, how much I paid and what functions they perform.
 
 
-
-Started: may/2017
+Started: May/2017
 
 Deadline: eternity
 
@@ -17,11 +16,11 @@ Status: in progress
 Main feactures:
 
 Automation
-- lights.
+- lights
 - tvs
 - setbox
 - fan
-- air condicioner
+- air conditioner
 - alarms
   - door
   - windows
@@ -31,7 +30,7 @@ Automation
 
 
 Monitoring
-- Weather
+- weather
 - temperature
 - luminisity
 - door
