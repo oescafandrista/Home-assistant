@@ -1,4 +1,4 @@
-Home-assistant
+
 Personal home assistant
 
 I started to work with Home assistant for fun, but as my home assistant was evolving and the difficulty was increasing
